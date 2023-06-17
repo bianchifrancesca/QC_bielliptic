@@ -10,7 +10,7 @@ REFERENCES:
 - [BP22] \F. Bianchi and O. Padurariu, "Rational points on rank 2 genus 2 bielliptic curves in the LMFDB", 2022.
 """
 
-load("./qc_g2_bielliptic.sage")
+load("../qc_g2_bielliptic.sage")
 load("./allcurves.sage")
 load("./aux-data-allcurves.sage")
 
