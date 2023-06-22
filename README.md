@@ -9,6 +9,6 @@ The file also contains code for turning the output of the quadratic Chabauty com
 
 NB: For the prime 3, the code relies on the following repository by Jennifer Balakrishnan: https://github.com/jbalakrishnan/AWS
 
-The folder LMFDB contains some files for the computations of the rational points on the curves considered in [BP22].
+The folder LMFDB contains some files for the computations of the rational points on the curves considered in [BP22], which we ran on CoCalc.
 
-If you have questions or comments, please send an email to: francesca.bianchi@rug.nl
+If you have questions or comments, please send an email to: francesca.bianchi.maths@gmail.com
